@@ -1,0 +1,22 @@
+[
+  {
+    "q": "What is the policy for refunds?",
+    "a": "within 30 days"
+  },
+  {
+    "q": "How to reset the device?",
+    "a": "hold the power button for 10 seconds"
+  },
+  {
+    "q": "Support email?",
+    "a": "support@example.com"
+  },
+  {
+    "q": "Max file size?",
+    "a": "25 MB"
+  },
+  {
+    "q": "Warranty period?",
+    "a": "12 months"
+  }
+]
